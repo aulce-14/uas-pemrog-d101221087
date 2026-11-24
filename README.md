@@ -4,6 +4,7 @@
 
 - **Nama:** aulce-14
 - **NIM:** D101221087
+- **Prodi:** Teknik Sipil, Universitas Tanjungpura
 - **Repo:** [uas-pemrog-d101221087](https://github.com/aulce-14/uas-pemrog-d101221087)
 
 ## Ringkasan Proyek
